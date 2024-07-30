@@ -1,0 +1,16 @@
+PyBank Results
+
+- Total Number of Months: 86
+- Total Profit/Losses: $22,564,198
+- Average Monthly Change: -$8,311.11
+- Greatest Increase in Profits: Aug-16 ($1,862,002)
+- Greatest Decrease in Profits: Feb-14 ($-1,825,558)
+
+
+PyPoll Results
+
+- Total Votes Cast: 369,711
+- Charles Casper Stockham: 23.049% (85,213 votes)
+- Diana DeGette: 73.812% (272,892 votes)
+- Raymon Anthony Doane: 3.139% (11,606 votes)
+- Winner: Diana DeGette
